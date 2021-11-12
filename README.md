@@ -4,4 +4,5 @@ Seminario
   <img src="/imagen" width="100" />
   <img src="/imagen" width="100" /> 
   <img src="/imagen" width="100" />
+  <img src="/imagen" width="100" />
 </p>
